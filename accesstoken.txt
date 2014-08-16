@@ -1,0 +1,3 @@
+1270 DEBUG [2014-04-09 14:36:19]  {"access_token":"2.00vqrtoBsezoHE5fb57af7cbrZ695E","remind_in":"157679999","expires_in":157679999,"uid":"1668264685"}
+
+AccessToken [accessToken=2.00vqrtoBsezoHE5fb57af7cbrZ695E, expireIn=157679999, refreshToken=,uid=1668264685]
